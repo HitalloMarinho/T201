@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: aqua;
+}
+
+h1 {
+    color: aqua;
+}
+
+a {
+    font-size: 30pt;
+    text-decoration: none;
+    background-color: white;
+    color: aqua;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+    border: 3px solid gold;
+    margin-bottom: 5px;
+}
+
+a:hover {
+    color: rgb(255, 0, 136);
+}
+
+img {
+    display: inline-block;
+    width: 50pt;
+    margin-left: 48%;
+}
