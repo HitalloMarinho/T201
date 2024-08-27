@@ -1,0 +1,16 @@
+img {
+    width: 300pt;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+#seta {
+    width: 100pt;
+}
+
+video {
+    width: 50%;
+}
